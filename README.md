@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eslamtamim
-- 👀 I'm interested in The tech field in general but AI & web development especially
+- 👀 I'm interested in The tech field in general but AI & data development especially
 - 🌱 I’m currently learning React-Js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/eslamtamim/) or [Twitter](https://www.Twitter.com/MimatMalxe/)
